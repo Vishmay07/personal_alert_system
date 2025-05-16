@@ -1,0 +1,8 @@
+2025-05-17 00:19:56.773684 - Emergency at: http://maps.google.com/?q=22.2994,73.2081
+2025-05-17 00:20:02.786731 - Emergency at: http://maps.google.com/?q=22.2994,73.2081
+2025-05-17 00:20:26.568601 - Emergency at: http://maps.google.com/?q=22.2994,73.2081
+2025-05-17 00:40:00.318845 - Emergency at: http://maps.google.com/?q=22.2994,73.2081
+2025-05-17 00:40:02.911478 - Emergency at: http://maps.google.com/?q=22.2994,73.2081
+2025-05-17 00:40:06.380343 - Emergency at: http://maps.google.com/?q=22.2994,73.2081
+2025-05-17 00:43:13.984931 - Emergency at: http://maps.google.com/?q=22.2994,73.2081
+2025-05-17 00:43:18.116793 - Emergency at: http://maps.google.com/?q=22.2994,73.2081
